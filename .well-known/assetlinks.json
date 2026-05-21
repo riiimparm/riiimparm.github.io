@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.riiimparm.twa",
+      "sha256_cert_fingerprints": [
+        "7F:74:37:E6:42:05:08:9E:FB:DE:2A:A2:C7:AB:5E:78:C2:BC:8A:B0:46:A2:3F:21:14:C2:FC:87:98:51:3A:C6"
+      ]
+    }
+  }
+]
